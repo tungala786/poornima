@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="mysuite" duration-ms="89564" started-at="2020-04-21T05:58:48Z" finished-at="2020-04-21T06:00:18Z">
+    <groups>
+    </groups>
+    <test name="myTest" duration-ms="89564" started-at="2020-04-21T05:58:48Z" finished-at="2020-04-21T06:00:18Z">
+      <class name="myPack.Poornima">
+        <test-method status="PASS" signature="addEmp()[pri:0, instance:myPack.Poornima@48140564]" name="addEmp" duration-ms="34686" started-at="2020-04-21T11:28:48Z" finished-at="2020-04-21T11:29:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addEmp -->
+        <test-method status="PASS" signature="deleteEmp()[pri:0, instance:myPack.Poornima@48140564]" name="deleteEmp" duration-ms="0" started-at="2020-04-21T11:29:23Z" finished-at="2020-04-21T11:29:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteEmp -->
+        <test-method status="PASS" signature="verifyLogin()[pri:0, instance:myPack.Poornima@48140564]" name="verifyLogin" duration-ms="54863" started-at="2020-04-21T11:29:23Z" finished-at="2020-04-21T11:30:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLogin -->
+        <test-method status="PASS" signature="editEmp()[pri:0, instance:myPack.Poornima@48140564]" name="editEmp" duration-ms="0" started-at="2020-04-21T11:29:23Z" finished-at="2020-04-21T11:29:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- editEmp -->
+      </class> <!-- myPack.Poornima -->
+    </test> <!-- myTest -->
+  </suite> <!-- mysuite -->
+</testng-results>
